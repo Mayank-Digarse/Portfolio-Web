@@ -1,2 +1,2 @@
-# Portfolio-Web
-Explore my personal portfolio website showcasing my projects and skills. Built with HTML and CSS. Responsive and user-friendly.
+# Portfolio-website
+ Portfolio-website created with HTML CSS and animations.
